@@ -1,0 +1,12 @@
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.exe.config
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.exe
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.pdb
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\OpenGL.dll
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\OpenGL.dll.config
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csprojAssemblyReference.cache
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csproj.CoreCompileInputs.cache
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csproj.CopyComplete
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.exe
+C:\Users\ross.bunnell\Documents\GitHub\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.pdb
